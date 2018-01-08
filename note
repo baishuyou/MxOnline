@@ -1,0 +1,9 @@
+#pip model
+pip install django==1.9
+pip install mysql-python
+pip install  MySQL_python-1.2.5-cp27-none-win_amd64.whl
+pip install Pillow
+pip install future
+pip install six
+pip install django-import-export
+#pip install xadmin
